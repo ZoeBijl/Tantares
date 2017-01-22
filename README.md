@@ -6,7 +6,7 @@
 
 ## Download
 
-You can [get it from GitHub]().
+You can [get it from GitHub](https://github.com/MichielBijl/Tantares/releases/tag/V1.0).
 
 ## Installation
 
