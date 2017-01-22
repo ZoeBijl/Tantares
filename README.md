@@ -4,6 +4,19 @@
 
 <abbr title="Kerbal Space Program">KSP</abbr> version 1.2 included new part categories. This patch places all Tantares and TantaresLV parts in the correct KSP 1.2 category.
 
+## Download
+
+You can [get it from GitHub]().
+
 ## Installation
 
 Drop the Moiety folder in your GameData folder.
+
+## Requirements
+
+- Tantares or TantaresLV
+- ModuleManager
+
+## Supports
+
+- KSP-AVC
