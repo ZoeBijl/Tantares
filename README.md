@@ -6,4 +6,4 @@
 
 ## Installation
 
-Drop Tantares_Categories.cfg anywhere in your GameData folder.
+Drop the Moiety folder in your GameData folder.
