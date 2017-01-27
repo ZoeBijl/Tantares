@@ -35,3 +35,14 @@ If you don’t want the TAC LS patch delete the Tantares-TAC_LS.cfg file.
 
 - KSP-AVC
 - TAC LS
+
+## Changelog
+
+### 1.1.1
+- Added TAC LS to the T-KY1, H-4D1, and H-JT3 orbital modules (so you can re-supply your space station)
+
+### 1.1
+- Added TAC LS support
+
+### 1.0
+Initial version

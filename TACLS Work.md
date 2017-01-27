@@ -56,3 +56,16 @@ This is equal to: .5⨉ 1.5m HexCan Supplies and .25⨉ 1.5m HexCan Waste. Again
 With these two upgrades a completed MIR with four kerbals gives you around between 400 and 410 days of life support.
 
 Since @Beale already made a config for USI (thanks for the comments in that) I’m looking to make a direct port of those values to see how well that works. Reason for my initial approach was to figure out TAC code and keep it stupid simple; having 4-5 parts to empty and refuel is a lot easier than having to go through all the different parts.
+
+Orbital modules now have:
+
+- Food: 174.50
+- Water: 115.3
+- Oxygen: 17678.1
+- Waste: 15.8
+- Waste Water: 147.8
+- Carbon Dioxide: 15372.9
+
+It will take about four trips to re-supply a completed MIR.
+
+Values are equal to 1⨉ 1.25m Supplies Container, 1⨉ 1.5m HexCan Supplies, 1⨉ 1.5m HexCan Waste, 2⨉ 0.625m Waste Container, 1⨉ .75m HexCan Waste.
