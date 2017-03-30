@@ -6,6 +6,10 @@
 
 <abbr title="Kerbal Space Program">KSP</abbr> version 1.2 included new part categories. This patch places all Tantares and TantaresLV parts in the correct KSP 1.2 category.
 
+## Old Tantares
+
+For people that play with both the old (pre-GitHub) and new version of Tantares I've created a ModuleManager patch that adds some text to the old parts. The text reads "Part of old Tantares". This is to help you select the newer part in case of duplicate parts, or if you want to transition to only using the newer parts.
+
 ## TAC LS
 
 <abbr title="Thunder Aerospace Corporation Life Support">TAC LS</abbr> adds a life support system to KSP.
@@ -26,6 +30,8 @@ If you don’t want the categories patch delete the Tantares and TantaresLV fold
 
 If you don’t want the TAC LS patch delete the Tantares-TAC_LS.cfg file.
 
+If you don’t want the added text for old parts delete the Old.cfg file located in Moiety/Tantares/.
+
 ## Requirements
 
 - Tantares or TantaresLV
@@ -37,6 +43,11 @@ If you don’t want the TAC LS patch delete the Tantares-TAC_LS.cfg file.
 - TAC LS
 
 ## Changelog
+
+### 1.1.2
+
+- Added text to indicate parts of old Tantares
+- Renamed version file from TantaresCategories to TantaresPatches
 
 ### 1.1.1
 - Added TAC LS to the T-KY1, H-4D1, and H-JT3 orbital modules (so you can re-supply your space station)
