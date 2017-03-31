@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.4
+
+- Fixed Module Manager query so that it catches all old parts
+- Optimised Module Manager queries for some category patches
+- GitHub version number now aligns with KSP-AVC version number
+
 ## 1.1.3
 
 - Added text to indicate parts of old Tantares
